@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Resume</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>Student Resume</h1>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="resume">
+        <div class="container">
+            <!-- Personal Details Section -->
+            <section class="personal-details">
+                <h2>Personal Details</h2>
+                <p><strong>Name:</strong> Sai murali</p>
+                <p><strong>Email:</strong> Sai murali@gmail.com</p>
+                <p><strong>Phone:</strong> 6302879636 </p>
+                <p><strong>Location:</strong> City, Country</p>
+            </section>
+
+            <!-- Education Section -->
+            <section class=btech>
+                <h2>Education</h2>
+                <p><strong>University:</strong> JNTU-GV </p>
+                <p><strong>Degree:</strong> Bachelor of Science in CYBER SECURITY</p>
+                <p><strong>Graduation Year:</strong> 2027</p>
+            </section>
+
+            <!-- Skills Section -->
+            <section class="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>Web Development (HTML, CSS, JavaScript)</li>
+                    <li>Programming Languages (Python, Java)</li>
+                    <li>Database Management (MySQL, MongoDB)</li>
+                    <li>Version Control (Git, GitHub)</li>
+                </ul>
+            </section>
+        </div>
+    </div>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 John Doe. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>
